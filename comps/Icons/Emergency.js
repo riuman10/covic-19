@@ -2,8 +2,8 @@ import * as React from "react"
 
 const Emergency = (props) => (
   <svg
-    width={25}
-    height={29}
+    width={23}
+    height={23}
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
     {...props}

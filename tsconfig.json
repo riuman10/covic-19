@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "comps/SideBar.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "comps/SideBar.tsx", "comps/Layout.tsx", "pages/symptoms.js"],
   "exclude": ["node_modules"]
 }
